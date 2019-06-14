@@ -1,12 +1,11 @@
 # Site settings
-name: 王潇鹏
-location: 东莞
-company: Unemployed
-position: 网站编辑
-github: https://github.com/ikym
-facebook: https://www.facebook.com/
-phone: 132653351111
-email: kli@live.com
+name: 周一鸣
+location: 成都/北京
+company: UISEE
+position: 计算机视觉算法工程师
+github: https://github.com/zym1119
+phone: 18113114505
+email: 823756414@qq.com
 
 baseurl: "/resume"
 
